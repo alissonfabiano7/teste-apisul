@@ -1,0 +1,17 @@
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\bin\Debug\net6.0\TesteApisul.exe
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\bin\Debug\net6.0\TesteApisul.deps.json
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\bin\Debug\net6.0\TesteApisul.runtimeconfig.json
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\bin\Debug\net6.0\TesteApisul.dll
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\bin\Debug\net6.0\TesteApisul.pdb
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.csproj.AssemblyReference.cache
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.AssemblyInfoInputs.cache
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.AssemblyInfo.cs
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.csproj.CopyComplete
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.dll
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\refint\TesteApisul.dll
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.pdb
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\TesteApisul.genruntimeconfig.cache
+C:\Users\aliss\source\repos\TesteApisul\TesteApisul\obj\Debug\net6.0\ref\TesteApisul.dll
